@@ -1,4 +1,4 @@
-//NEW FILE ALL NEW CODE
+
 import React from 'react'
 import styled from 'styled-components'
 
@@ -12,7 +12,7 @@ div {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 2px dotted black;
+    border: 2px solid black;
 }
 img {
     /* width:100%; */
@@ -34,7 +34,7 @@ export default function(props){
     return (
     <MainPic>
         <div>
-            <h1>NASA's Picture Of The Day</h1>
+            <h1>NASA Picture Of The Day</h1>
             <h2>{image.title}</h2>
             <img src={image.url} alt={image.title}></img>
             <p>{image.explanation}</p>
