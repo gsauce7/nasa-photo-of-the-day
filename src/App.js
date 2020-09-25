@@ -4,6 +4,7 @@ import "./App.css";
 //import axios - this time it's a locally installed node module 
 import axios from 'axios';
 //import my local components
+//import Navigation from './components/Navigation'
 import POD from './components/POD'
 import Rover from './components/Rovers'
 

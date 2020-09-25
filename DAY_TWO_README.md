@@ -5,10 +5,10 @@ In this project you will refactor the styling you completed in the APOD app. You
 
 ## Introduction
 
-- [ ] This will be a continuation of the project you've already started.
-- [ ] Our goal here is to apply advance styling techniques for your React application.
-- [ ] You don't need to start from scratch. Use the work you did previously.
-- [ ] Let's say that the designs have changed. There are new ways and implementations of doing things as time goes by. As stated earlier, these are normal in the real world. It's time for us to dig into the code to make it better.
+- [x] This will be a continuation of the project you've already started.
+- [x] Our goal here is to apply advance styling techniques for your React application.
+- [x] You don't need to start from scratch. Use the work you did previously.
+- [x] Let's say that the designs have changed. There are new ways and implementations of doing things as time goes by. As stated earlier, these are normal in the real world. It's time for us to dig into the code to make it better.
 
 ## Instructions
 
@@ -16,13 +16,13 @@ In this project you will refactor the styling you completed in the APOD app. You
 
 This homework is a continuation of the work you have done previously.
 
-- [ ] CD into your old project
-- [ ] Continue to make changes and push to the same branch
+- [x] CD into your old project
+- [x] Continue to make changes and push to the same branch
 
 ### Task 2a: MVP Requirements
 
-- [ ] Refactor your project using a component library that was covered in class (Reactstrap or styled-components).
-- [ ] Implement and use at least a few styled components to beautify your project.
+- [x] Refactor your project using a component library that was covered in class (Reactstrap or styled-components).
+- [x] Implement and use at least a few styled components to beautify your project.
 
 ### Task 2b: Exit Ticket
 
@@ -42,10 +42,10 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge Branch into `main` (student's Repository).
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into `main` branch.
-- [ ] Do your magic!
+- [x] Submit a Pull-Request to merge Branch into `main` (student's Repository).
+- [x] Add your team lead as a reviewer on the pull-request
+- [x] Your team lead will count the project as complete by merging the branch back into `main` branch.
+- [x] Do your magic!
 
 -----
 
